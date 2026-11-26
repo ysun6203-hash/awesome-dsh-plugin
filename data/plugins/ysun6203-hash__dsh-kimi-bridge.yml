@@ -1,0 +1,6 @@
+url: https://github.com/ysun6203-hash/dsh-kimi-bridge
+name: ysun6203-hash/dsh-kimi-bridge
+category: model
+description:
+  en: 'Four tools that put a second model, Kimi (Moonshot), beside the current session: ask it directly, fetch pages through a local HTTP proxy, and show the DSH and Kimi wallet totals against one budget.'
+  zh: '四个工具把 Kimi（Moonshot）接成随叫随到的第二模型：任何会话里直接提问、经本地代理抓网页，并把 DSH 与 Kimi 的余额合在一处对着一个预算看。'
